@@ -215,6 +215,8 @@ $(document).ready(function() {
         return false;
     });
 
+    console.log('new Branch Code');
+
 
 
 //--------------------------------/ End document ready
